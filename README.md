@@ -1,4 +1,4 @@
-# ToxiPlantNet: A UAV-Based Deep Learning Framework for Toxic Plant DetectionntNet
+# ToxiPlantNet: A UAV-Based Deep Learning Framework for Toxic Plant Detection and Quantitative Analysis of Spatiotemporal Dynamics in Grasslands
 **[🚨 News]** This repository is the official implementation of **ToxiPlantNet**. 
 > *The full source code, pre-trained weights, and deployment scripts are currently being cleaned up and will be made publicly available upon the acceptance of the manuscript.*
 
@@ -12,7 +12,8 @@ Using *Euphorbia fischeriana* as a representative species, this framework integr
 2. **Ecological Metric Derivation:** Introduces two novel geospatial indicators: the **Spatial Aggregation Index (SAI)** and the **Detectable Density Change (DDC)**, transitioning from bounding boxes to quantitative spatial clustering intensity.
 3. **Spatiotemporal Application:** Provides a scalable approach for dynamic risk assessment and precision grazing route optimization to support modern animal husbandry.
 
-<img width="866" height="333" alt="image" src="https://github.com/user-attachments/assets/01563e59-fb7b-4879-948c-0d130562c2ea" />
+![整体流程图改](https://github.com/user-attachments/assets/ad1273f9-0c88-43ad-baad-528a149647da)
+
 
 ## 📦 Data Availability
 
